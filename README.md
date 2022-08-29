@@ -10,8 +10,9 @@
 </p>
 <h3 align="center"> Contributor </h3>
 <p align="center">
-  <a href="https://github.com/anchore/grype"><img src="https://img.shields.io/github/stars/anchore/grype.svg?label=Grype&style=social" alt="Moby on GitHub"></a>
-  <a href="https://github.com/anchore/syft"><img src="https://img.shields.io/github/stars/anchore/syft.svg?label=Syft&style=social" alt="MongoDB on GitHub"></a>
+  <a href="https://github.com/anchore/grype"><img src="https://img.shields.io/github/stars/anchore/grype.svg?label=Grype&style=social" alt="Grype on GitHub"></a>
+  <a href="https://github.com/anchore/syft"><img src="https://img.shields.io/github/stars/anchore/syft.svg?label=Syft&style=social" alt="Syft on GitHub"></a>
+  <a href="https://github.com/guacsec/guac"><img src="https://img.shields.io/github/stars/guacsec/guac.svg?label=Guac&style=social" alt="Guac on GitHub"></a>
 </p>
 
 <p align="center">
