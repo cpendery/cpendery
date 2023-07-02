@@ -14,9 +14,3 @@
   <a href="https://github.com/anchore/syft"><img src="https://img.shields.io/github/stars/anchore/syft.svg?label=Syft&style=social" alt="Syft on GitHub"></a>
   <a href="https://github.com/guacsec/guac"><img src="https://img.shields.io/github/stars/guacsec/guac.svg?label=Guac&style=social" alt="Guac on GitHub"></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/cpendery">
-  <img src="https://github-readme-stats.vercel.app/api?username=cpendery&show_icons=true&count_private=true"/>
-  </a>
-</p>
